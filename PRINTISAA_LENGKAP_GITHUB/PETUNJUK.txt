@@ -1,0 +1,4 @@
+PRINTISAA PWA — Android
+Target layar: lebar 360–430 px, acuan 393 × 852 px.
+Untuk Cloudflare Pages: upload isi folder ini (index.html, styles.css, app.js, manifest.webmanifest, sw.js, assets/logo.png), bukan file ZIP yang belum diekstrak.
+Catatan: login/daftar dan pembayaran masih simulasi. File dipilih di browser, belum dikirim ke percetakan. Pesanan tersimpan lokal pada browser/perangkat. Harga contoh. Integrasi backend dan pembayaran nyata belum tersedia.

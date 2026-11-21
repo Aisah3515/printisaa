@@ -1,0 +1,7 @@
+name = "printisaa"
+pages_build_output_dir = "./"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "printisaa-db"
+database_id = "1505e2ae-ddef-4471-a71c-587d4295a333"
